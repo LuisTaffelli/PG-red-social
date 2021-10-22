@@ -1,2 +1,3 @@
 # PG-red-social-probando-si-funca
-esteban puto
+
+hizo la funcacion
